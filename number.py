@@ -10,23 +10,6 @@ init(autoreset=True)
 # === CONFIGURATION ===
 API_BASE = "http://apilayer.net/api/validate?access_key=YOUR_API_KEY&number="
 
-
-## Target
-192.168.64.2
-
-## Command Used
-nmap -sS -sV -O 192.168.64.2
-
-## Results
-- All ports are closed
-- No open services found
-
-## Screenshot
-![Output](nmap_output.png)
-
-## Note
-Scanning performed in a controlled environment
-
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Linux; Android 13; Termux) Gecko/117.0 Firefox/117.0",
     "Accept": "application/json,text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
