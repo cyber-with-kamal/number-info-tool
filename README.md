@@ -11,7 +11,9 @@ A Python OSINT tool to fetch mobile number details.
 ## 🚀 Installation
 
 git clone https://github.com/your-username/number-info-tool.git
+
 cd number-info-tool
+
 pip install -r requirements.txt
 
 ## ▶️ Usage
