@@ -10,7 +10,7 @@ A Python OSINT tool to fetch mobile number details.
 
 ## 🚀 Installation
 
-git clone https://github.com/your-username/number-info-tool.git
+git clone https://github.com/cyber-with-kamal/number-info-tool.git
 
 cd number-info-tool
 
